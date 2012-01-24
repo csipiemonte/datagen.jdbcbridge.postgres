@@ -25,4 +25,4 @@ Export-Package: org.postgresql,
  org.postgresql.translation,
  org.postgresql.util,
  org.postgresql.xa
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
